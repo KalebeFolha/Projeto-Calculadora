@@ -16,7 +16,7 @@ A calculadora foi desenvolvida com foco em interatividade e tratamento de erros.
 
 ---
 
-## 🚀 Como Executar o Projeto
+## Como Executar o Projeto
 
 Para facilitar o uso, o projeto inclui um script de inicialização automática (`.sh`).
 
